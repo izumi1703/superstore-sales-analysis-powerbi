@@ -1,6 +1,6 @@
 # 🧾 Superstore Sales Performance Dashboard (Power BI)
 
-**Author:** Aiswarya Nair  
+**Author:** Aiswarya R Nair  
 **Tools Used:** Power BI, Python (Pandas), Jupyter Notebook  
 
 ## 📊 Overview
